@@ -14,7 +14,7 @@ This is my HTML portfolio website created for Assignment 03.
 - CSS3
 
 ## Live Demo
-[Click here to view website](https://arishashakil.github.io/assignment-03/)
+[Click here to view website](https://arishashakil.github.io/assignment-3/)
 
 ## Contact
 Email: arishashakil16@gmail.com
