@@ -18,4 +18,4 @@ This is my HTML portfolio website created for Assignment 03.
 
 ## Contact
 Email: arishashakil16@gmail.com
-LinkedIn: https://www.linkedin.com/in/arishashakil
+LinkedIn: https://lnkd.in/p/d4j5j957
